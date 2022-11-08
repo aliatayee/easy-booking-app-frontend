@@ -13,10 +13,8 @@ https://deploy-preview-10--easy-booking12.netlify.app/
       <th>Home</th>
     </tr>
     <tr>
-      <td><img src="https://user-images.githubusercontent.com/101924220/199963390-fefe999e-7a19-4b15-9f77-5b38eff8c3a7.PNG
-" alt="Splash" align="center" /></td>
-      <td><img src="https://user-images.githubusercontent.com/101924220/199963396-da332516-a9a7-48cf-9580-dd4f4b1c210d.PNG
-" alt="Home" align="center" /></td>
+      <td><img src="https://user-images.githubusercontent.com/101924220/199963390-fefe999e-7a19-4b15-9f77-5b38eff8c3a7.PNG" alt="Splash" align="center" /></td>
+      <td><img src="https://user-images.githubusercontent.com/101924220/199963396-da332516-a9a7-48cf-9580-dd4f4b1c210d.PNG" alt="Home" align="center" /></td>
     </tr>
   </tr>
   
@@ -26,10 +24,8 @@ https://deploy-preview-10--easy-booking12.netlify.app/
       <th>Register</th>
     </tr>
     <tr>
-      <td><img src="https://user-images.githubusercontent.com/101924220/199963379-be0480f7-8994-4297-ada0-bd7d82d22f3f.PNG
-" alt="Login" align="center" /></td>
-      <td><img src="https://user-images.githubusercontent.com/101924220/199963385-5417f0ed-c452-481f-8a73-897bbfc75802.PNG
-" alt="Register" align="center" /></td>
+      <td><img src="https://user-images.githubusercontent.com/101924220/199963379-be0480f7-8994-4297-ada0-bd7d82d22f3f.PNG" alt="Login" align="center" /></td>
+      <td><img src="https://user-images.githubusercontent.com/101924220/199963385-5417f0ed-c452-481f-8a73-897bbfc75802.PNG" alt="Register" align="center" /></td>
     </tr>
   </tr>
 </table>
