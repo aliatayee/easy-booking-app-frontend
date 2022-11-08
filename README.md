@@ -4,6 +4,8 @@ The `EASY BOOKING` is a hotel booking app where users can make room reservations
 
 ## Demo
 https://deploy-preview-10--easy-booking12.netlify.app/
+
+## [Link to backend](https://github.com/aliatayee/easy-booking-app-backend)
 ## Screenshots
 
 <table>
