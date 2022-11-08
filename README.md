@@ -2,6 +2,8 @@
 
 The `EASY BOOKING` is a hotel booking app where users can make room reservations by specifying the date of entry and date for depature. Users will have various options to select from, based on what accomodities or special facilities offered along with a preferred room.
 
+## Demo
+https://deploy-preview-10--easy-booking12.netlify.app/
 ## Screenshots
 
 <table>
